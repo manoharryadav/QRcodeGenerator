@@ -15,7 +15,7 @@ qrcode package
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/QRcodeGeneratorr.git
+git clone https://github.com/manoharryadav/QRcodeGeneratorr.git
 
 Navigate to the project directory:
 
